@@ -8,8 +8,8 @@ const contentSections = [
     {
         title: "Privacy Concerns",
         badge: "Data Risks",
-        description: `<p>Privacy is a serious concern in the social media ban, especially as companies turn to third party software, like K-ID which Discord, Quora, and Another Axiom use for facial age verification. Discord was recently a target of a data breach which leaked over 700,000 photo IDs uploaded for verification, and 2.1 million age verification selfies, processed by K-ID¹.</p>
-      <p>Other concerns include governments abusing the collected IDs to associate people with their online activities, removing the ability for an individual to access the internet anonymously, in situations where they may fall under scrutiny or criminal investigation for their use for example; Whistleblowers, especially of government policies² or of large companies³; people in marginalized communities (LGBTQ, Aboriginal/Native, Immigrants, Disabled); or those in countries where internet is heavily censored⁴ or controlled⁵. These concerns are heightened by the increasing rise in authoritarian governments worldwide and the introduction of invasive Digital ID policies in places like the UK, Australia and the USA, which will be used for a vast array of services like Medicare, Banking, Age and Identity verification for online purchases. These authoritarian policies leverage biometric data, like fingerprints, facial scans, vocal pattern analysis or iris scans.</p>`,
+        description: `<p>Privacy is a serious concern in the social media ban, especially as companies turn to third party software, like K-ID which Discord, Quora, and Another Axiom use for facial age verification. Discord was recently a target of a data breach which leaked over 700,000 photo IDs uploaded for verification, and 2.1 million age verification selfies, processed by K-ID.</p>
+      <p>Other concerns include governments abusing the collected IDs to associate people with their online activities, removing the ability for an individual to access the internet anonymously, in situations where they may fall under scrutiny or criminal investigation for their use for example; Whistleblowers, especially of government policies or of large companies; people in marginalized communities (LGBTQ, Aboriginal/Native, Immigrants, Disabled); or those in countries where internet is heavily censored or controlled. These concerns are heightened by the increasing rise in authoritarian governments worldwide and the introduction of invasive Digital ID policies in places like the UK, Australia and the USA, which will be used for a vast array of services like Medicare, Banking, Age and Identity verification for online purchases. These authoritarian policies leverage biometric data, like fingerprints, facial scans, vocal pattern analysis or iris scans.</p>`,
     },
     {
         title: "Social Effects",
@@ -21,7 +21,7 @@ const contentSections = [
     {
         title: "Conclusion",
         badge: "Final Thoughts",
-        description: `<p>To conclude, the under 16 social media ban is well-intentioned but the implementation poses serious concerns over the wellbeing of Gen-Z and to a lesser extent, Gen-Alpha — and the implementation of the age verification features which have already been proven unsafe overseas⁷ which pose risks to personal safety, and from which arise ethical concerns of government overreach — tying an identity to online activity.</p>`,
+        description: `<p>To conclude, the under 16 social media ban is well-intentioned but the implementation poses serious concerns over the wellbeing of Gen-Z and to a lesser extent, Gen-Alpha — and the implementation of the age verification features which have already been proven unsafe overseas which pose risks to personal safety, and from which arise ethical concerns of government overreach - tying an identity to online activity.</p>`,
     },
 ];
 
