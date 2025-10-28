@@ -29,7 +29,7 @@ const contentSections = [
     badge: "Final Thoughts",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcampusguard.com%2Fwp-content%2Fuploads%2FTeen-Phone-scaled.jpeg&f=1&nofb=1&ipt=88f00eaef120e3fd7c91c80e50953227db19471b9b184a4d2f4d00de7911d176",
-    description: `<p>To conclude, the under 16 social media ban is well-intentioned but the implementation poses serious concerns over the wellbeing of Gen-Z and to a lesser extent, Gen-Alpha — and the implementation of the age verification features which have already been proven unsafe overseas⁷ which pose risks to personal safety, and from which arise ethical concerns of government overreach — tying an identity to online activity.</p>`,
+    description: `<p>To conclude, the under 16 social media ban is well-intentioned but the implementation poses serious concerns over the wellbeing of Gen-Z and to a lesser extent, Gen-Alpha — and the implementation of the age verification features which have already been proven unsafe overseas which pose risks to personal safety, and from which arise ethical concerns of government overreach — tying an identity to online activity.</p>`,
   },
 ];
 
