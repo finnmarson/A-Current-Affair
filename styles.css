@@ -133,3 +133,22 @@ body {
     font-size: 0.9rem;
     color: #6b7280;
 }
+
+.section .image-container {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+.section .image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 1s ease;
+}
+
+.section.visible .image-container img {
+  transform: scale(1.05);
+}
